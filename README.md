@@ -24,4 +24,5 @@ An automatic hand wash dispenser, which detects the hand and dispenses the handw
 
 ***Motivation Behind the Project :***  
 The idea behind this project is to introduce IoT to my juniors from college. This is basically a simplified version of what we showed them. The original version also includes an LED and an LCD display.  
+
 Visit [My GitHub Profile](https://github.com/Bharadwaj-R) for more simple projects.
