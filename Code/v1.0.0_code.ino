@@ -30,8 +30,8 @@ long findDistance()
   delayMicroseconds(10);
   digitalWrite(TRGpin, LOW);
 
-  time = pulseIn(ECHOpin, HIGH);    //Time in microseconds
-  distance = (0.0343*time)/2;       //0.0343 - speed of sound in cm/us
+  time = pulseIn(ECHOpin, HIGH);    //Time in μs
+  distance = (0.0343*time)/2;       //0.0343 - speed of sound in cm/μs
 
   return distance;
 }
