@@ -20,7 +20,7 @@ An automatic hand wash dispenser, which detects the hand and dispenses the handw
 [Tinkercad Simulation](https://www.tinkercad.com/things/iDxutfmYfYT)
 
 ***Versions***  
-- `v1.0.0` - 2 seconds gap between successive servo activations.  
+- `v1.0.0` - 2 seconds gap between successive servo activations  
 
 ***Motivation Behind the Project :***  
 The idea behind this project is to introduce IoT to my juniors from college. This is basically a simplified version of what we showed them. The original version also includes an LED and an LCD display.  
